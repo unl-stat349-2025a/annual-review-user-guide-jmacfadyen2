@@ -1,6 +1,5 @@
 # Topic
 
-Pick some subset of the information covered in your annual review article that you are interested in exploring in more detail. 
+My topic for my user guide will be about preparing data that will be shared in conjunction with reports and articles in accordance with FAIR principles that were explored in my annual review article: The Role of Statistics in Promoting Data Reusability and Research Transparency by Sarah M. Nusser (2023).
 
-Identify the scope of your user guide - what will you cover? Specific software packages? When to use or not to use a specific technique?
-
+For my user guide, I would like to cover good documentation practices for people to use while conducting research, such as proper metadata setup, README files, and how data should be formatted for sharing. Potential researchers would come from varying fields with different kinds of data, so while I wouldn't be able to be too specific in my guide, I would be able to write about some "must-dos" with data sharing and some recommendations for researchers, such as data repositories, version control, and how to include written code.
