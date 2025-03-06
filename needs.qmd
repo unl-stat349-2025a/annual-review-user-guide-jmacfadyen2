@@ -1,9 +1,13 @@
 # Needs Assessment {.appendix}
 
-What does someone trying to accomplish your chosen task need help with? 
+#### What does someone trying to accomplish your chosen task need help with?
 
-What parts are likely to be tricky? 
+Researchers who are trying to prepare and share their data in conjunction with their research in accordance with FAIR principles will need help with understanding the guidelines and standards of FAIR principles. They will also need help with creating comprehensive metadata, README files, and other sorts of documentation practices that may be relevant to their research. Researchers will most likely already have their data formatted in the most efficient (or relevant) way, but uploading to repositories and including their code with their data will need to be explained to ensure that future replications will be made as easy as possible.
 
-What resources are already available on this topic that may be helpful? Look for e.g. software vignettes, package documentation, papers about software packages, and so on.
+#### What parts are likely to be tricky?
 
+Due to the vast variation in types of research that is conducted, creating a user guide that is applicable to all fields may be tricky. Being too vague is something I will want to avoid, but that means that all or most kinds of research should be considered when describing things such as metadata creation or interoperability. Research documentation may also be difficult to describe, as researchers may have different needs and uses that alter what sort of documentation they will be including. Creating a guide for things like Git may also be difficult for researchers who have never used version control before.
 
+#### What resources are already available on this topic that may be helpful? Look for e.g. software vignettes, package documentation, papers about software packages, and so on.
+
+Describing how to adhere to FAIR Priniciples will be easy, as there are already many resources on the topic, including the GO FAIR Initiative. When it comes to metadata, DublinCore and DataCite Metadata Schema are two resources for standards that can be applied to research data. There are already existing data repositories used for research data such as Zenodo and Dryad. In fact, there are so many for specific purposes that it may be more beneficial to describe how to find a data repository for one's needs. RStudio will be a primary software in my user guide.
