@@ -3,8 +3,13 @@ editor:
   markdown: 
     wrap: sentence
 ---
+## Introduction {.unnumbered}
 
-## Purpose {.unnumbered}
+This user guide will be about preparing data in accordance with FAIR principles that were explored in my annual review article: The Role of Statistics in Promoting Data Reusability and Research Transparency by Sarah M. Nusser (2023).
+
+This is meant to cover good documentation practices for people to use for their data, such as proper metadata setup, README files, and how data should be formatted for sharing. Potential readers/researchers come from varying fields with different kinds of data, so while I wasn't able to be too specific in my guide, I did write about some "must-dos" with data sharing and some recommendations for researchers.
+
+## Purpose
 
 This user guide is meant to assist UNL researchers who are trying to prepare and share their data in conjunction with their research in accordance with FAIR principles.
 

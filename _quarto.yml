@@ -11,7 +11,7 @@ book:
   title: "User Guide: Preparing FAIR Data"
   author: "Jack Macfadyen"
   page-footer:
-    left: "Copyright 2025, Author Name"
+    left: "Copyright 2025, Jack Macfadyen"
   chapters:
     - index.qmd
     - fair-guide.qmd
