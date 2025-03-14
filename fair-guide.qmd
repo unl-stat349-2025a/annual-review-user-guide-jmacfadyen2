@@ -1,0 +1,50 @@
+---
+editor:
+  markdown:
+    wrap: 72
+---
+
+# Understanding FAIR Principles {.unnumbered}
+
+## What Are FAIR Principles?
+
+### Findable
+
+Data should be easy to locate, both by humans and machines. By using
+descriptive metadata, unique identifiers (e.g., DOIs), clear file naming
+conventions, and proper repository setup, your data will be able to be
+shared and used by anyone who needs it.
+
+### Accessible
+
+Data should be able to be available to anyone who needs it with minimal
+restrictions. This is done by using open-access repositories and
+providing clear instructions for accessing the data.
+
+### Interoperable
+
+Data should be structured in a way in which it can be easily integrated
+with other data and tools for analysis, storage, and processing. This
+involves standardized and non-proprietary formats and consistent
+vocabulary.
+
+### Reusable
+
+Data should be well-documented and licensed in a way that allows others
+to use it for new purposes. This includes providing context (e.g.,
+metadata), methodology, and clear terms of use.
+
+## Why FAIR Matters
+
+In order to achieve a transparent, collaborative research environment,
+researchers must adhere to FAIR principles. Having FAIR data makes it
+easier for others to verify and reproduce your findings, which
+strengthens your research as a whole. It enables others to build upon
+your work, and allows your research to be better shared within and
+across disciplines. Not only this, but many funding agencies and
+journals now require researchers to share their data in accordance with
+FAIR principles.
+
+## How To Achieve FAIR Data
+
+After learning what FAIR principles are and why they matter, we can now learn important tools in achieving FAIR data. Some crucial things you must do include creating [metadata](metadata-guide.qmd), a [README file](readme-guide.qmd), and working with [repositories and version control](version-control-guide.qmd). The rest of this guide will cover these steps more in-depth.

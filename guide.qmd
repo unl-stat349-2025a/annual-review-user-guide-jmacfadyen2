@@ -1,5 +1,126 @@
+---
+editor: 
+  markdown: 
+    wrap: 72
+---
+
 # User Guide
 
-First off, you should change this section title to something more appropriate.
+## Purpose
 
-Next, well, that's up to you. Good luck!
+This user guide is meant to assist UNL researchers who are trying to
+prepare and share their data in conjunction with their research in
+accordance with FAIR principles.
+
+In today's research landscape
+
+## What this user guide will cover
+
+This user guide will
+
+## Notes
+
+This guide will not cover how to
+
+My topic for my user guide will be about preparing data that will be
+shared in conjunction with reports and articles in accordance with FAIR
+principles that were explored in my annual review article: The Role of
+Statistics in Promoting Data Reusability and Research Transparency by
+Sarah M. Nusser (2023).
+
+For my user guide, I would like to cover good documentation practices
+for people to use while conducting research, such as proper metadata
+setup, README files, and how data should be formatted for sharing.
+Potential researchers would come from varying fields with different
+kinds of data, so while I wouldn't be able to be too specific in my
+guide, I would be able to write about some "must-dos" with data sharing
+and some recommendations for researchers, such as data repositories,
+version control, and how to include written code.
+
+#### What does someone trying to accomplish your chosen task need help with?
+
+Researchers who are trying to prepare and share their data in
+conjunction with their research in accordance with FAIR principles will
+need help with understanding the guidelines and standards of FAIR
+principles. They will also need help with creating comprehensive
+metadata, README files, and other sorts of documentation practices that
+may be relevant to their research. Researchers will most likely already
+have their data formatted in the most efficient (or relevant) way, but
+uploading to repositories and including their code with their data will
+need to be explained to ensure that future replications will be made as
+easy as possible.
+
+#### What parts are likely to be tricky?
+
+Due to the vast variation in types of research that is conducted,
+creating a user guide that is applicable to all fields may be tricky.
+Being too vague is something I will want to avoid, but that means that
+all or most kinds of research should be considered when describing
+things such as metadata creation or interoperability. Research
+documentation may also be difficult to describe, as researchers may have
+different needs and uses that alter what sort of documentation they will
+be including. Creating a guide for things like Git may also be difficult
+for researchers who have never used version control before.
+
+#### What resources are already available on this topic that may be helpful? Look for e.g. software vignettes, package documentation, papers about software packages, and so on.
+
+Describing how to adhere to FAIR Priniciples will be easy, as there are
+already many resources on the topic, including the GO FAIR Initiative.
+When it comes to metadata, DublinCore and DataCite Metadata Schema are
+two resources for standards that can be applied to research data. There
+are already existing data repositories used for research data such as
+Zenodo and Dryad. In fact, there are so many for specific purposes that
+it may be more beneficial to describe how to find a data repository for
+one's needs. RStudio will be a primary software in my user guide.
+
+As this user guide will be focused towards researchers, there are
+knowledge prerequisites regarding data management and organization,
+familiarity with FAIR principles (or at least the concept of data
+transparency and reusability), and the ability to create metadata and
+documentation of their research. For software, users will be access to a
+text editor for README files, a tool for metadata creation, as well as a
+slight familiarity with or ability to learn Git and RStudio.
+
+Some basic requirements for the data that the method is used on are
+generic, such as being of good quality, having proper documentation, as
+well as being in a file format that is open and non-propriety. Missing
+values are allowed, but they must be accounted for and explained by a
+codebook or other form of documentation. It is necessary that the
+researcher is familiar with their own data and is comfortable with
+manipulating or handling it so that reusability and transparency are
+maximized.
+
+The basic components of the task are as follows:
+
+-   *Planning and organization:* Data must be organized and named
+    clearly
+
+-   *Metadata creation:* Create metadata that describes the data's
+    context, structure, and origin
+
+-   *Documentation:* Create a README file that includes a description of
+    the dataset, instructions on how to use/understand it, details on
+    the structure of the data, as well as code used in any data analysis
+
+-   *Data Formatting:* Ensure data is consistent and in a reusable
+    format
+
+-   *Version control:* Use version control to track changes to data and
+    code
+
+-   *Choosing a repository:* Select a data repository that reflects
+    research field and needs. Upload data, metadata, and documentation
+    to said repository
+
+When carrying out these tasks, researchers need to be ready to make
+decisions that are specific to their own field and research.
+Documentation will look different for every researcher, so basic
+principles will be described and they will have to make judgment calls.
+They will also be responsible for finding the most appropriate
+repository for their needs. Theoretically, there will be standards or
+popular resources within their field that they can use or draw upon.
+
+One concern about the first draft of the user guide is how it balances
+specificity and applicability. The goal is that researchers will be able
+to follow the guide and adhere to FAIR principles in accordance with the
+sort of research and data that they will be working with.

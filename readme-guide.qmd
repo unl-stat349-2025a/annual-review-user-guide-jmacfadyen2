@@ -4,14 +4,14 @@ editor:
     wrap: 72
 ---
 
-# Making a README File
+# Making a README File {.unnumbered}
 
 ## README Files
 
 A README file is a crucial document in data sharing, as it provides
-essential information about a project, dataset, or collection of files.
+essential, easy-to-read information about a project, dataset, or collection of files.
 It serves as both a guide and documentation to help users understand the
-purpose, structure, and usage fo the file it describes. Even if some
+purpose, structure, and usage of the file it describes. Even if some
 information is available elsewhere, consolidating it in the README
 ensures clarity and accessibility. This redundancy is helpful not only
 for others but also for you, as you may revisit the data in the future.
@@ -120,3 +120,13 @@ below and are appropriate for your research and data.
 3.  **Links to Publications or Repositories**
     -   Include links to publications that cite or use the data.
     -   If the data is hosted in a repository, provide the URL.
+    
+---
+
+## References
+
+This README file guide was adapted from the following sources:
+
+- Cornell
+- Harvard
+- The Open University

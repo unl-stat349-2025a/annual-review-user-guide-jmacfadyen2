@@ -1,0 +1,90 @@
+---
+editor:
+  markdown:
+    wrap: 72
+---
+
+# Constructing Metadata {.unnumbered}
+
+## Metadata
+
+Metadata is used to help others find your research data by providing key
+context and descriptors of content that is easy to retrieve when your
+data is stored in a repository. It is key in preserving your data to
+ensure it is discoverable, understandable, and reusable by others.
+
+Because of the nature of metadata, ontology, and the seemingly infinite
+types of data that can be described, metadata has many different
+standards. This guide will walk you through the steps to properly add
+metadata to your data and research for storing in a repository.
+
+## Identify Metadata Standards
+
+There are many different metadata standards for different disciplines
+and fields. What is important is being able to identify which metadata
+standard is right for you. Luckily, there are already robust resources
+that can help you find the best metadata standard for you. Some
+resources include:
+
+-   Disciplinary Metadata from the Digital Curation Center
+
+-   Metadata Standards Catalog from the Research Data Alliance
+
+-   DCMI Metadata Terms from Dublin Core
+
+## Metadata Elements
+
+Even though there are various standards for different disciplines, as
+shown by the resources above, metadata standards typically have the
+following information:
+
+1.  **Descriptive Metadata Elements**
+
+    -   **Title**: A clear and concise title for the dataset.
+    -   **Creator(s)**: Names and affiliations of the researchers.
+    -   **Description**: A brief summary of the research and data.
+    -   **Keywords**: A list of relevant terms to the research and data.
+    -   **Subject:** The field or discipline of the research.
+
+2.  **Administrative Metadata Elements**
+
+    -   **Who/When Created**: Who created the dataset and when? Use the ISO 8601 date format (YYYY-MM-DD).
+    -   **Who/When Last Modified**: Who recently modified the dataset
+        and when? Use the ISO 8601 date format (YYYY-MM-DD).
+    -   **Version**: Version number of the dataset.
+
+3.  **Technical Metadata Elements**
+
+    -   **File format**: The format of the data files (e.g., CSV, TIFF,
+        HDF5).
+    -   **Size**: The size of the dataset.
+    -   **Software/Hardware**: Software and equipment used for data
+        collection and analysis.
+
+## Example
+
+Here's an example of what metadata should generally look like. Notice how it's very easy to tell what sort of research is being conducted and how easy it would be to find the data based on key metadata elements.
+
+```{}
+Title: Climate Change Impacts on Northern Hemisphere Sea Levels
+Creator: Jane Doe, University of Science
+Abstract: This dataset contains observations of sea levels along...
+Keywords: climate change, sea level, northern hemisphere
+Subject: Environmental Science
+Date Created: 2024-01-20
+Version: 1.0
+Rights: CC BY 4.0
+File Format: CSV
+Size: 2.6 MB
+```
+
+---
+
+## References
+
+This README file guide was adapted from the following sources:
+
+- Dataedo
+- Dublin Core
+- Digital Curation Center
+- Research Data Alliance
