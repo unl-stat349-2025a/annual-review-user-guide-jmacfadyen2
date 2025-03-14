@@ -8,13 +8,14 @@ date-format: long
 from: markdown+emoji
 
 book:
-  title: "User Guide: Annual Review Article Topic"
-  author: "Author Name"
+  title: "User Guide: Preparing FAIR Data"
+  author: "Jack Macfadyen"
   page-footer:
     left: "Copyright 2025, Author Name"
   chapters:
-    - index.qmd # Remove this before you submit your final report!
+    - index.qmd
     - guide.qmd
+    - readme-guide.qmd
     - references.qmd
   appendices:
     - topic.qmd

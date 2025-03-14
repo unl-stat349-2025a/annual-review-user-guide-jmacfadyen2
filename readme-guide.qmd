@@ -1,0 +1,122 @@
+---
+editor:
+  markdown:
+    wrap: 72
+---
+
+# Making a README File
+
+## README Files
+
+A README file is a crucial document in data sharing, as it provides
+essential information about a project, dataset, or collection of files.
+It serves as both a guide and documentation to help users understand the
+purpose, structure, and usage fo the file it describes. Even if some
+information is available elsewhere, consolidating it in the README
+ensures clarity and accessibility. This redundancy is helpful not only
+for others but also for you, as you may revisit the data in the future.
+
+This guide will walk you through the steps to create an effective README
+file for a dataset or project. You can also search for README templates
+to speed up the process, but it's important they include what's covered
+below and are appropriate for your research and data.
+
+## Formatting and Structure
+
+1.  **Use Plain Text**
+    -   Write your README as a plain text file (.txt) to ensure
+        compatibility across all platforms.
+    -   Avoid proprietary formats like MS Word, as they may cause
+        compatibility issues.
+2.  **Structure for Readability**
+    -   Use headings and subheadings to organize sections.
+    -   Separate sections with blank lines to improve readability.
+    -   Write in clear, concise language, providing enough detail for
+        users to understand and reuse the data.
+3.  **Additional Information**
+    -   **Table of Contents**: For a longer README file, include a table
+        of contents to help users navigate the document.
+    -   **Keywords**: If your work or discipline uses scientific naming
+        conventions, use them consistently throughout the README file.
+    -   **Multiple README Files**: If you are creating multiple README
+        files for various related datasets, maintain a consistent
+        structure and format across all files.
+
+## Essential Information to Include
+
+1.  **Title**
+    -   All README files should open with a clear and concise title for
+        the project or dataset. This will ensure that whoever opens the
+        file knows exactly what it is about.
+2.  **Credits**
+    -   List the names of all key contributors to the project or
+        dataset.
+    -   Include contact information (e.g., email addresses) for the
+        principal investigator or main contact person to allow users to
+        reach out with questions.
+3.  **Date of Data Collection**
+    -   When describing a dataset, include the date in which it was
+        collected. Use the ISO 8601 date format (YYYY-MM-DD).
+4.  **Location of Data Collection**
+    -   When describing a dataset, include the geographic location in
+        which the data was collected. Be as precise as possible.
+
+## Data Overview
+
+1.  **File Names and Descriptions**
+    -   List the names of all files described in the README.
+    -   Provide a short description of the data contained in each file.
+    -   Specify the file format if it is not obvious from the file name.
+    -   Include the date the file was created and any versioning
+        information.
+
+<!-- -->
+
+2.  **Multiple Files**
+    -   If the README file is describing multiple related files, explain
+        how they are connected.
+3.  **Additional Information**
+    -   If multiple files share a naming convention or include
+        abbreviations, explain it.
+    -   If there is any other additional information that you think will
+        help the reader better understand the data, include it.
+
+### Data-Specific Information
+
+1.  **Variable List**
+    -   Provide a count of the number of variables as well as
+        cases/rows/observations in the dataset.
+    -   List all variables, codes, or abbreviations used in the data,
+        along with their definitions.
+2.  **Units of Measurement**
+    -   Specify the units of measurement for each variable.
+3.  **Missing Data Codes**
+    -   Define any codes or symbols used to represent missing or
+        incomplete data (e.g., "NA" or "99").
+
+## Data Collection and Methodology
+
+1.  **Data Collection Methods**
+    -   Describe the methods used to collect or generate the data.
+        Include links to protocols or publications used, if available.
+2.  **Data Processing**
+    -   Explain how the data was processed from raw to final form. Did
+        you clean or transform the data? If so, describe the steps.
+    -   List any software, tools, or scripts used for processing,
+        including version numbers.
+3.  **Quality Assurance**
+    -   Describe any quality-assurance procedures performed on the data.
+    -   Note any data that was omitted or flagged as low quality.
+4.  **Additional Information**
+    -   If there is any other additional information that you think will
+        help the reader better understand the data, include it.
+
+## Sharing and Access Information
+
+1.  **Licenses or Restrictions**
+    -   Specify any licenses or restrictions on the use of the data.
+2.  **Recommend Citation**
+    -   Provide a recommended citation format for the dataset.
+3.  **Links to Publications or Repositories**
+    -   Include links to publications that cite or use the data.
+    -   If the data is hosted in a repository, provide the URL.
