@@ -1,0 +1,54 @@
+---
+editor:
+  markdown:
+    wrap: 72
+---
+
+# Version Control & Repository Guide {.unnumbered}
+
+## What is Version Control?
+
+Version control is a system that records changes to files over time. This allows you to track modifications you make to a dataset or paper, revert to previous versions, and collaborate with others. Depending on your work-flow, version control is a necessity.
+
+There are a couple of free, open-source version control systems that one can choose such as Git or Mercurial. However, in the realm of research, it is common for repositories to integrate their own version control features, making it easier to manage and share your work.
+
+## What is a Repository?
+
+A repository is a storage location where your project files and their version history are stored. Oftentimes these are large database infrastructures that make storing and sharing data easy and secure. Repositories also assign your research a DOI (Digital Object Identifier), which is an important, permanent handle that makes it easy for sharing and citing digital research, even if the URL changes.
+
+It would be impossible to write a detailed guide on how to navigate and use a repository for your research, as each one does it a little different. However, upon choosing a repository that is right for you, you will be able to use the resources they provide to help you. So, which repository should you choose?
+
+## Choosing a Repository as a University of Nebraska--Lincoln (UNL) Researcher
+
+There are many different repositories out there. A lot of them are general-purpose, many are institutional, some are from publishers, and some are specialized databases. If you want to see the long list of repositories that exist, you can navigate the [Registry of Research Data Repositories](https://www.re3data.org/).
+
+As a UNL researcher, you have an advantage in having access to UNL's own institutional repository: Digital Commons. Since you are affiliated with the university, you can use the repository at no cost and can get great support and assistance in your submission process.
+
+#### How to Use Digital Commons
+
+1.    Visit the [Digital Commons website](https://digitalcommons.unl.edu/).
+2.    Follow the guidance on submitting your data. If you have any issues, contact the UNL library or research support services.
+3.    Follow the repository's guidelines for managing your data, metadata, version control, etc.
+
+Alternatively, if you wish to choose another repository, then you have many options. It can get pretty hectic, but as long as you have FAIR principles in mind, you won't make a wrong choice.
+
+Before choosing a repository, you should ask yourself if your field has discipline-specific repositories. Remember that you can check the [Registry of Research Data Repositories](https://www.re3data.org/) to see what sorts of repositories exist for your field.
+
+-   If yes, you may want to consider such a repository. Discipline-specific repositories may have advantages regarding field-specific data types as well as sharing and collaboration with data similar to yours. Keep in mind that you may have to pay a fee.
+
+-   If no, then you still have the option of general repositories. There are many great options of platforms.
+
+### Other considerations
+
+Not all repositories are the same. Here are some things to look out for when choosing one for yourself.
+-   File Formats: Does it support the file formats you are using?
+-   Cost: Are there fees for depositing or accessing data?
+-   Backing: Is it backed by a reputable organization or institution?
+-   User Support: Are there resources to help you navigate the repository?
+
+
+### Recommended General Repositories
+-   [Figshare](https://figshare.com/)
+-   [Zenodo](https://zenodo.org/)
+-   [Dryad](https://datadryad.org/)
+-   [Harvard Dataverse](https://dataverse.harvard.edu/)

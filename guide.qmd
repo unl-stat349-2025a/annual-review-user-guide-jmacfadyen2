@@ -8,9 +8,9 @@ editor:
 
 ## Purpose
 
-This user guide is meant to assist UNL researchers who are trying to
-prepare and share their data in conjunction with their research in
-accordance with FAIR principles.
+This user guide is meant to assist University of Nebraska–Lincoln (UNL)
+researchers who are trying to prepare and share their data in
+conjunction with their research in accordance with FAIR principles.
 
 In today's research landscape
 

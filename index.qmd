@@ -10,16 +10,16 @@ This user guide is meant to assist UNL researchers who are trying to prepare and
 
 ## What this user guide will cover
 
-### [Chapter 1: FAIR Principles](fair-guide.qmd)
+### [FAIR Principles](fair-guide.qmd)
 
-### [Chapter 2: Metadata](metadata-guide.qmd)
+### [Metadata](metadata-guide.qmd)
 
-### [Chapter 3: README File](readme-guide.qmd)
+### [README File](readme-guide.qmd)
 
-### [Chapter 4: Version Control](version-control-guide.qmd)
+### [Version Control & Repositories](version-control-guide.qmd)
 
 ---
 
 #### Note:
 
-This guide will not cover how to make good quality data, manipulate data, or properly document the research process. It is up to the researcher to be familiar and comfortable with their own data and research. This guide is only meant to bolster the reusability and transparency of the data and research itself.
+This guide will not cover how to make good quality data, manipulate data, or properly document the research process. It is up to the researcher to be familiar and comfortable with their own data and research. They should also understand what data they are allowed to make publicly available. This guide is only meant to bolster the transparency and reusability of the data and research itself.

@@ -8,6 +8,13 @@ editor:
 
 ## What Are FAIR Principles?
 
+FAIR Principles were made in 2016 as part of an effort to improve the
+ecosystem of digital data (@FAIRPrinciples). It's a set of standards and
+guidelines for researchers to follow as they prepare to share their
+research with others. It aims to solve four main issues with data
+transparency and sharing by ensuring that all data fulfills the
+following criteria:
+
 ### Findable
 
 Data should be easy to locate, both by humans and machines. By using
@@ -39,12 +46,33 @@ metadata), methodology, and clear terms of use.
 In order to achieve a transparent, collaborative research environment,
 researchers must adhere to FAIR principles. Having FAIR data makes it
 easier for others to verify and reproduce your findings, which
-strengthens your research as a whole. It enables others to build upon
-your work, and allows your research to be better shared within and
-across disciplines. Not only this, but many funding agencies and
-journals now require researchers to share their data in accordance with
-FAIR principles.
+strengthens your research as a whole (@wilkinson_etal16). It enables
+others to build upon your work, and allows your research to be better
+shared within and across disciplines. Not only this, but many funding
+agencies and journals now require researchers to share their data in
+accordance with FAIR principles.
 
 ## How To Achieve FAIR Data
 
-After learning what FAIR principles are and why they matter, we can now learn important tools in achieving FAIR data. Some crucial things you must do include creating [metadata](metadata-guide.qmd), a [README file](readme-guide.qmd), and working with [repositories and version control](version-control-guide.qmd). The rest of this guide will cover these steps more in-depth.
+After learning what FAIR principles are and why they matter, we can now
+cover important practices to make your data FAIR. There are a few
+simple, yet critical aspects to the formatting of your data that you
+should know from the beginning:
+
+-   **Non-Proprietary Format**: Your data should be in an open,
+    non-proprietary format. This means that anyone should be able to
+    access your data without a costly software. Some examples of this
+    are plain text formats, such as comma or tab delimited files (CSV
+    and TSV).
+-   **Lossless**: Your data should be in a "lossless" format. This means
+    that there is little compression involved that may result in the
+    loss of data. Most plain text files are lossless, but many image and
+    audio files are compressed. Some lossless formats for these are
+    .tiff and .wav, respectively.
+
+Beyond these checks, there are other crucial things you must do when
+preparing your data for publication. These include creating
+[metadata](metadata-guide.qmd), a [README file](readme-guide.qmd), and
+working with [version control and
+repositories](version-control-guide.qmd). The rest of this guide will
+cover these steps more in-depth.

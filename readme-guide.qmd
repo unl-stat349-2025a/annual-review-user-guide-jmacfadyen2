@@ -18,7 +18,7 @@ for others but also for you, as you may revisit the data in the future.
 
 This guide will walk you through the steps to create an effective README
 file for a dataset or project. You can also search for README templates
-to speed up the process, but it's important they include what's covered
+to speed up the process, such as [this one](https://cornell.app.box.com/v/ReadmeTemplate) (@cornelluniversitya), but it's important they include what's covered
 below and are appropriate for your research and data.
 
 ## Formatting and Structure
@@ -69,8 +69,6 @@ below and are appropriate for your research and data.
     -   Specify the file format if it is not obvious from the file name.
     -   Include the date the file was created and any versioning
         information.
-
-<!-- -->
 
 2.  **Multiple Files**
     -   If the README file is describing multiple related files, explain
@@ -127,6 +125,6 @@ below and are appropriate for your research and data.
 
 This README file guide was adapted from the following sources:
 
-- Cornell
-- Harvard
-- The Open University
+- Cornell University - @cornelluniversity
+- Harvard University - @harvarduniversity
+- The Open University - @chadwick

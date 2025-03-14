@@ -23,14 +23,14 @@ metadata to your data and research for storing in a repository.
 There are many different metadata standards for different disciplines
 and fields. What is important is being able to identify which metadata
 standard is right for you. Luckily, there are already robust resources
-that can help you find the best metadata standard for you. Some
+that can help you. Some
 resources include:
 
--   Disciplinary Metadata from the Digital Curation Center
+-   [Disciplinary Metadata](https://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative) from the Digital Curation Center
 
--   Metadata Standards Catalog from the Research Data Alliance
+-   [Metadata Standards Catalog](https://rdamsc.bath.ac.uk/) from the Research Data Alliance
 
--   DCMI Metadata Terms from Dublin Core
+-   [DCMI Metadata Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) from Dublin Core
 
 ## Metadata Elements
 
@@ -52,6 +52,7 @@ following information:
     -   **Who/When Last Modified**: Who recently modified the dataset
         and when? Use the ISO 8601 date format (YYYY-MM-DD).
     -   **Version**: Version number of the dataset.
+    -   **Grant information**: Who helped fund your research? Always be transparent about funding.
 
 3.  **Technical Metadata Elements**
 
@@ -82,9 +83,9 @@ Size: 2.6 MB
 
 ## References
 
-This README file guide was adapted from the following sources:
+This metadata guide was adapted from the following sources:
 
-- Dataedo
-- Dublin Core
-- Digital Curation Center
-- Research Data Alliance
+- Dataedo - @WhatMetadataExamples
+- Dublin Core - @DCMIMetadataTerms
+- Digital Curation Center - @DDIDataDocumentation
+- Research Data Alliance - @MetadataStandardsCatalog
